@@ -33,6 +33,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" title="android-studio" alt="android-studio" width="40" height="40"/>&nbsp
   <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/charles_proxy_macos_bigsur_icon_190302.png" title="charles-proxy" alt="charles-proxy" width="40" height="40"/>&nbsp
   <img src="https://www.megaleechers.com/storage/Fiddler-Everywhere-Icon.png" title="fiddler" alt="fiddler" width="40" height="40"/>&nbsp
+  
 </div>
 
 
@@ -40,6 +41,7 @@
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="mysql" alt="mysql" width="40" height="40"/>&nbsp
+  
 </div>
 
 
@@ -53,12 +55,16 @@
 
 
 ### 📜 Образование и сертификация:
+<br>
+<br>
 
 Тестирование ПО с нуля. Теория + Практика
 <div>
 <img src="https://stepik.org/static/frontend/topbar_logo.svg" title="git" alt="git" width="80" height="80" />&nbsp 
 </div>  2025г. 
 <a href=Sertificate/stepik-certificate-171826-514f933.pdf> Тестирование ПО с нуля. Теория + Практика </a>
+<br>
+<br>
 
 
 Тестирование ПО: подготовка к сертификации ISTQB Foundation
@@ -66,6 +72,8 @@
 <img src="https://stepik.org/static/frontend/topbar_logo.svg" title="git" alt="git" width="80" height="80" />&nbsp 
 </div>  2025г.
 <a href="Sertificate/stepik-certificate-16478-d73e2b8.pdf"> Тестирование ПО: подготовка к сертификации ISTQB Foundation </a>
+<br>
+<br>
 
 
 Первичные переговоры с корпоративным клиентом
@@ -74,4 +82,6 @@
 </div>
 2025г.
 <a href="https://github.com/Dariya666/Portfolio/blob/main/Sertificate/1_6_%D0%9F%D0%B5%D1%80%D0%B2%D0%B8%D1%87%D0%BD%D1%8B%D0%B5_%D0%BF%D0%B5%D1%80%D0%B5%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D1%8B_%D1%81_%D0%BA%D0%BE%D1%80%D0%BF%D0%BE%D1%80%D0%B0%D1%82%D0%B8%D0%B2%D0%BD%D1%8B%D0%BC_%D0%BA%D0%BB%D0%B8%D0%B5%D0%BD%D1%82%D0%BE%D0%BC.pdf"> Первичные переговоры с корпоративным клиентом </a>
+<br>
+<br>
 
