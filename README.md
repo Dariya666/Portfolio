@@ -52,11 +52,17 @@
 
 
 
-№№№ 📜 Образование и сертификация:
+### 📜 Образование и сертификация:
 
+Тестирование ПО с нуля. Теория + Практика
 <div>
+<img src="https://stepik.org/static/frontend/topbar_logo.svg" title="git" alt="git" width="40" height="40" />&nbsp 
+</div>  2025г.
 
-
+Тестирование ПО: подготовка к сертификации ISTQB Foundation
+<div>
+<img src="https://stepik.org/static/frontend/topbar_logo.svg" title="git" alt="git" width="40" height="40" />&nbsp 
+</div>  2025г.
 
 
 
