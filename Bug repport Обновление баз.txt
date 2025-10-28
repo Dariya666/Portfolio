@@ -17,7 +17,8 @@
 
  ➤ Reporter: [ФИО]                                               
  ➤ Assignee: [▼]                                     
- ➤ Priority: [Low ▼]                                                 
+ ➤ Priority: [Low ▼] 
+ ➤ Severity: [Low ▼]
  ➤ Labels:  #ТЭ_bug                                      
  ➤ Affects Version/s: [V ▼]                                      
  ➤ Component/s: [Профиль ▼]                                           
@@ -26,4 +27,5 @@
 
 [Прикрепить файлы] Видео-15-08-2025 161313.mp4
                    Screen 1.jpg
+
    
