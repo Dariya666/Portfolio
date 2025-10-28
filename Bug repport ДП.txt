@@ -16,7 +16,8 @@
 
  ➤ Reporter: [ФИО]                                               
  ➤ Assignee: [ ▼]                                     
- ➤ Priority: [Medium ▼]                                                 
+ ➤ Priority: [Medium ▼] 
+ ➤ Severity: [Medium ▼] 
  ➤ Labels:  #NRM_bug                                      
  ➤ Affects Version/s: [ ▼]                                      
  ➤ Component/s: [Профиль ▼]                                           
@@ -25,4 +26,5 @@
 
 [Прикрепить файлы] Видео-16-09-2025 161320.mp4
                    Screen 1.jpg
+
    
