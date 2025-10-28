@@ -22,7 +22,8 @@ DESCRIPTION: Не осуществляется поиск по тексту на
 
  ➤ Reporter: [ФИО]                                               
  ➤ Assignee: [▼]                                     
- ➤ Priority: [High▼]                                                 
+ ➤ Priority: [High▼]    
+ ➤ Severity: [Critical ▼]
  ➤ Labels:  #NRM_bug                                      
  ➤ Affects Version/s: [ V▼]                                      
  ➤ Component/s: [Профиль ▼]                                           
@@ -32,5 +33,6 @@ DESCRIPTION: Не осуществляется поиск по тексту на
 [Прикрепить файлы] Screen_2
                    Видео
                    log
+
 
 
